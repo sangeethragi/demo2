@@ -10,5 +10,9 @@ public class calc {
 		int n=a-b;
 		System.out.println(n);
 	}
+	public void prod(int a,int b) {
+		int n=a*b;
+		System.out.println(n);
 
+}
 }
